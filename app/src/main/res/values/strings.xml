@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared preferences</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="name_edit">Name</string>
+    <string name="x">xxx</string>
+    <string name="name_e">Name_E</string>
+</resources>
